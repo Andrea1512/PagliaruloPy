@@ -55,10 +55,10 @@ if scelta == "Ananas":
   print(frutta.index("Ananas"))
 
 if scelta == "Fragola": 
-  print(frutta.index("Frago
+  print(frutta.index("Fragola"))
 
 10)
-list = ["Francesco", "Giacomo" , "Mattia" , "Paolo", "Leonardo"]
+list = ["Andrea", "Giacomo" , "Mattia" , "Paolo", "Leonardo"]
 
 c = 0
 while c < len(list):
